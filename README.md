@@ -63,3 +63,4 @@ I am focused on web security, bug bounty hunting, and red-team style thinking.
 - Web Fundamentals (Legacy): https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UMFTPSIT9H.pdf
 - Jr Penetration Tester: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DDUZG5ZXPS.pdf
 - Security Engineer: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-A22P6HFLR7.pdf
+- Web Application Pentesting: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F4XOJU73YJ.pdf
